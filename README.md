@@ -17,7 +17,7 @@
 
 ## Setup
 1️⃣ Clone the repo:  
-git clone https://github.com/YourUsername/training_crm_php.git  
+git clone https://github.com/jatin03patel/training_crm_php.git  
 
 2️⃣ Import the `db_backup/training_crm_php.sql` into your phpMyAdmin  
 
@@ -46,7 +46,6 @@ Thumbs.db
 ## README.md content
 # Training CRM PHP
 
-🎯 A simple Training & Placement CRM made with PHP + MySQL.
 
 ## Features
 ✅ Add, view, delete students  
@@ -63,22 +62,12 @@ Thumbs.db
 
 ## Setup
 1️⃣ Clone the repo:  
-git clone https://github.com/YourUsername/training_crm_php.git  
+git clone https://github.com/jatin03patel/training_crm_php.git  
 
 2️⃣ Import the `db_backup/training_crm_php.sql` into your phpMyAdmin  
 
 3️⃣ Run via XAMPP: open http://localhost/training_crm_php/
 
-## Screenshot
-_Add a screenshot if you want — e.g. table view_
-
----
 
 ⭐ Author: [jatin-patel]
 
----
-
-## Notes
-✅ Replace `https://github.com/YourUsername/training_crm_php.git` with your actual GitHub repo URL  
-✅ Make sure your `db_backup/` folder has your SQL file (database export)
-✅ Optionally add `images/` folder for screenshots
